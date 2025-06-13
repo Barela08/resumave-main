@@ -35,7 +35,7 @@ const page = () => {
                         <IoIosRocket />
                     </Link>
 
-                    <a href="https://github.com/devXprite/resumave" className="btn w-full md:w-auto">
+                    <a href="https://github.com/Barela08/resumave-main" className="btn w-full md:w-auto">
                         <span>View Source</span>
                         <FaGithub />
                     </a>
